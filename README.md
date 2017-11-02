@@ -90,7 +90,7 @@ NOTE : Final Dataset exclude all entries where we matching data was not availabl
 1. Jupyter Notebook (Python 3.X Anaconda Distribution)
 2. Python  Libraries (CSV, Paadas, matplotlib)
 
-### Analysis
+### Analysis & Write Up
 
 
 10 highest-ranked countries in terms of number of politician articles as a proportion of country population
@@ -161,3 +161,5 @@ Tanzania          0.245098
 
 
 **Uzbekistan  and  North  Korea** are  present in both  10 lowest-ranked countries in terms of number of politician articles as a proportion of country population  10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country .
+
+Above outcome just focused on top 10 and bottom 10 . This data set has been collected from only English Wikipedia which undermines the effectiveness of Analysis on Global base.
