@@ -1,8 +1,7 @@
-# data-512-a2
-A2: Bias in data (Explore the concept of 'bias' through data on Wikipedia articles - specifically, articles on political figures from a variety of countries.)
+### A2: Bias in data (Explore the concept of 'bias' through data on Wikipedia articles - specifically, articles on political figures from a variety of countries.)
 
 
-## Data Source & License
+### Data Source & License
 1. Generated using Wikimedia Foundation API and distributed on Figshare under [CC-BY-SA 4.0 license]
   * Source Location  : [Politicians by Country from the English-language Wikipedia](https://figshare.com/articles/Untitled_Item/5513449)
  * Local Copy  : [Raw Data](https://github.com/abhishekanand/data-512-a2/blob/master/rawdata/country.zip)
@@ -89,7 +88,7 @@ NOTE : Final Dataset exclude all entries where we matching data was not availabl
 ### Tools Used  :
 
 1. Jupyter Notebook (Python 3.X Anaconda Distribution)
-2. Python  Libraries (CSV, Pnadas, matplotlib)
+2. Python  Libraries (CSV, Paadas, matplotlib)
 
 ### Analysis
 
